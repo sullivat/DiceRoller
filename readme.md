@@ -1,6 +1,6 @@
 #README
 
-###Dice_Roll2.1.py
+###Dice_Roll_2_1.py
 
 This is a simple dice rolling program I made for fun. Written in python specifically for python 3 (python 2 doesn't work).
 
